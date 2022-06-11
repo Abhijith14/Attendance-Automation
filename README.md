@@ -1,2 +1,6 @@
 # Attendance-Automation
-Automate attendance for GCS
+UI ✅
+
+ChromeDriver ✅
+
+Algorithm ❌
